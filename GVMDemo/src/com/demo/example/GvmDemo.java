@@ -8,9 +8,9 @@ import java.util.Scanner;
 
 
 public class GvmDemo {
-	  static String driver="com.mysql.jdbc.Driver";
-	  static Connection con=null;
-	  static Statement st;
+	   static String driver="com.mysql.jdbc.Driver";
+	   static Connection con=null;
+	   static Statement st;
 	   static String conString="jdbc:mysql://localhost:3306/demo";
 	   static  String user="root";
 	   static String pass="1234";
